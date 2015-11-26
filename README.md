@@ -7,6 +7,17 @@ The goal is to animate a maximum of bunnies at 60 fps.
 
 See the [bunnymark for pixi.js](http://www.goodboydigital.com/pixijs/bunnymark/) as a fun implementation.
 
+# Screenshot
+
+![Screenshot](screenshot.png?raw=true)
+
+# Usage
+
+In the desktop directory:
+```
+lein run
+```
+
 # Credits
 
 Original idea: [Iain Lobb](http://blog.iainlobb.com/2010/11/display-list-vs-blitting-results.html)
